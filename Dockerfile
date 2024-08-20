@@ -1,6 +1,3 @@
-
-
-
 FROM alpine
 
 WORKDIR /usr/app
